@@ -1,3 +1,5 @@
+############################################################
+
 Universal Speed on a X = 3 Slope:
 - 45° = 4 seconds
 - 25° = 3 seconds
@@ -13,3 +15,5 @@ Universal Distance(X) per Jump between platforms X = 1, 2, or 3; away from base 
 ############################################################
 
 Next Data Test
+
+############################################################
