@@ -9,7 +9,7 @@ Use Prefabs
 Use Branches
   When making a change check out a branch for that change make your edits before merging it into staging. This is because it is easier to fix merge conflicts betwean branches and you are less likely to lose progress.
   
-<Working> -> Staging -> Master
+Working -> Staging -> Master
   The master branch should be a stable version of what we would build for VRChat. The staging branch should be whet we are pretty sure works, and is where we merge our new features together when we have tested them. Any other branch is a working branch ad is where your testing and feature aditions should be compleated before merging them into staging.
 
 ---
