@@ -21,7 +21,7 @@ MonoBehaviour:
   m_ShowMode: 4
   m_Title: 
   m_RootView: {fileID: 2}
-  m_MinSize: {x: 950, y: 548}
+  m_MinSize: {x: 950, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
   m_Maximized: 1
 --- !u!114 &2
@@ -46,7 +46,7 @@ MonoBehaviour:
     y: 0
     width: 1920
     height: 1037
-  m_MinSize: {x: 950, y: 548}
+  m_MinSize: {x: 950, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
 --- !u!114 &3
 MonoBehaviour:
@@ -140,7 +140,7 @@ MonoBehaviour:
   m_MinSize: {x: 406, y: 498}
   m_MaxSize: {x: 10002, y: 14048}
   vertical: 1
-  controlID: 25
+  controlID: 13
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -165,7 +165,7 @@ MonoBehaviour:
   m_MinSize: {x: 406, y: 224}
   m_MaxSize: {x: 8006, y: 4024}
   vertical: 0
-  controlID: 26
+  controlID: 14
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -357,9 +357,9 @@ MonoBehaviour:
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -3.9674692, y: 6.6238127, z: -7.7458644}
+    m_Target: {x: -2.7497847, y: 0.91938406, z: 1.7798227}
     speed: 2
-    m_Value: {x: -3.9674692, y: 6.6238127, z: -7.7458644}
+    m_Value: {x: -2.7497847, y: 0.91938406, z: 1.7798227}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -387,9 +387,9 @@ MonoBehaviour:
       speed: 2
       m_Value: 0
   m_Rotation:
-    m_Target: {x: -0.26157674, y: -0.19407201, z: 0.053779036, w: -0.9439394}
+    m_Target: {x: -0.13637581, y: -0.019584877, z: 0.0026962499, w: -0.9904599}
     speed: 2
-    m_Value: {x: -0.26157674, y: -0.19407201, z: 0.053779036, w: -0.9439394}
+    m_Value: {x: -0.13637581, y: -0.019584877, z: 0.0026962499, w: -0.9904599}
   m_Size:
     m_Target: 0.5891679
     speed: 2
@@ -434,23 +434,23 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 
-      m_LastClickedID: 0
-      m_ExpandedIDs: da51fffffc51ffff4c52ffff165bffff385bffff885bffffcc69ffff846dffffa66dfffff66dffffc673ffffe873ffff3874ffffda89ffffde89ffffe089ffffe689ffff768affff768cffff72abffff94abffffe4abffff40b4ffff20baffff00bdffff22bdffff76bdffff62deffff84deffffe0e0ffff90fbffffa2fbffffa4fbffff54220000204e0000cc5d0000126c00009c6c0000166d0000246d00006a6d000056700000fa70000056720000c273000032740000a8740000be8300002c840000828400002e85000044850000ca940000389500008e95000028960000389600004e9600005aa60000c8a600001ea700003ea700006aa70000c4a70000d4a70000eaa70000a8b7000016b800006cb800008cb80000b8b8000012b9000022b9000038b90000
+      m_SelectedIDs: fa3e0000
+      m_LastClickedID: 16122
+      m_ExpandedIDs: 3cf9ffff9cfbffff623e0000d23e0000ec3e0000503f0000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
-        m_Name: 
-        m_OriginalName: 
+        m_Name: VRC_chair_udon
+        m_OriginalName: VRC_chair_udon
         m_EditFieldRect:
           serializedVersion: 2
           x: 0
           y: 0
           width: 0
           height: 0
-        m_UserData: 0
+        m_UserData: -1752
         m_IsWaitingForDelay: 0
         m_IsRenaming: 0
-        m_OriginalEventType: 11
+        m_OriginalEventType: 0
         m_IsRenamingFilename: 0
         m_ClientGUIView: {fileID: 8}
       m_SearchString: 
@@ -604,20 +604,20 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Scenes
+    - Assets
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Scenes
+  - Assets
   m_LastFoldersGridSize: -1
   m_LastProjectPath: D:\VRChat_Worlds_Shared\Worlds\VRC_Worlds_Shared
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 79}
-    m_SelectedIDs: 1a1c0000
-    m_LastClickedID: 7194
-    m_ExpandedIDs: 000000001010000032110000f6140000861500005c17000098170000a81900001a1c0000d81f000000ca9a3b
+    m_SelectedIDs: cc2c0000
+    m_LastClickedID: 11468
+    m_ExpandedIDs: 00000000cc2c0000ee2d0000b031000040320000163400005234000062360000d4380000923c000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -645,7 +645,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 0000000010100000f6140000861500005c1700001a1c0000d81f0000
+    m_ExpandedIDs: 00000000cc2c0000ee2d0000b031000040320000163400005234000062360000d4380000923c0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
