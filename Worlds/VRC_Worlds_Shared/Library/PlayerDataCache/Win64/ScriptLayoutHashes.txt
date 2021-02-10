@@ -1,8 +1,8 @@
 Win64
 PlayerPath?
-C:/Users/Omega/AppData/Local/Temp/DefaultCompany/VRC_Worlds_Shared/scene-standalonewindows64-samplescene.vrcw
+C:/Users/Jonathan/AppData/Local/Temp/DefaultCompany/VRC_Worlds_Shared/scene-standalonewindows64-udoncodetesting.vrcw
 SceneListBegin?
-Assets/Scenes/SampleScene.unity
+Assets/Scenes/UdonCodeTesting.unity
 SceneListEnd?
 507174d46dacbc5fe45e28485db5dd1e UnityEngine.UI.dll:UnityEngine.UI.Button
 4bc4346a71a8df53a6b106f68ef3a190 UnityEngine.UI.dll:UnityEngine.UI.CanvasScaler
