@@ -19,6 +19,6 @@ Please use this USharp unity package https://github.com/MerlinVR/UdonSharp/relea
 
 Because of GitHub locking out some files, you will have to Import this and to do so:
   
-  <b>Right Click in Assets -> Import Package -> Select the USharp package<\b><br>
+  <b>Right Click in Assets -> Import Package -> Select the USharp package<br>
     
-This will have to be done everytime the U# code gets updated over Github's Push and Pull.
+<p>This will have to be done everytime the U# code gets updated over Github's Push and Pull.
