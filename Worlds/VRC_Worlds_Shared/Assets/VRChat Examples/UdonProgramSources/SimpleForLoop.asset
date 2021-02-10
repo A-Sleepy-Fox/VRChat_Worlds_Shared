@@ -186,33 +186,12 @@ MonoBehaviour:
         stringValue: System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|6343df08-f39e-40a1-8368-a69a4942cab6
     updateOrder: 0
   graphElementData:
-  - type: 3
-    uid: 4c9d90e7-ea8f-4b1a-bb27-526f6482a216
-    jsonData: '{"uid":"4c9d90e7-ea8f-4b1a-bb27-526f6482a216","layout":{"serializedVersion":"2","x":913.2000732421875,"y":-399.25018310546877,"width":339.9499816894531,"height":99.05000305175781},"title":"string
-      Concat adds strings together - in this case, add a number to the current text
-      in the TextField","layer":0,"elementTypeColor":{"r":0.0,"g":0.0,"b":0.0,"a":0.0}}'
-  - type: 3
-    uid: d69b2ba6-6adc-4ae8-b5d8-0b88b4a47042
-    jsonData: '{"uid":"d69b2ba6-6adc-4ae8-b5d8-0b88b4a47042","layout":{"serializedVersion":"2","x":-711.9537963867188,"y":-708.876708984375,"width":501.75,"height":79.10001373291016},"title":"this
-      event is called from the SendEventOnMouseDown graph on the ClickableCubeForLoop","layer":0,"elementTypeColor":{"r":0.0,"g":0.0,"b":0.0,"a":0.0}}'
-  - type: 3
-    uid: 388e734b-7473-487c-bf34-72f6eed5a0fd
-    jsonData: '{"uid":"388e734b-7473-487c-bf34-72f6eed5a0fd","layout":{"serializedVersion":"2","x":-452.39984130859377,"y":-564.6920776367188,"width":305.1000671386719,"height":40.00000762939453},"title":"get
-      the public TextField variable","layer":0,"elementTypeColor":{"r":0.0,"g":0.0,"b":0.0,"a":0.0}}'
-  - type: 3
-    uid: 4c1d5fe2-12c2-48fe-a0d4-1aace70c606d
-    jsonData: '{"uid":"4c1d5fe2-12c2-48fe-a0d4-1aace70c606d","layout":{"serializedVersion":"2","x":45.55017852783203,"y":-427.8421936035156,"width":333.8500671386719,"height":68.75000762939453},"title":"Get
-      the current text in the TextField so we can add to it","layer":0,"elementTypeColor":{"r":0.0,"g":0.0,"b":0.0,"a":0.0}}'
-  - type: 3
-    uid: 3516f6f2-aa41-440f-b578-beefb87cb39d
-    jsonData: '{"uid":"3516f6f2-aa41-440f-b578-beefb87cb39d","layout":{"serializedVersion":"2","x":1287.2772216796875,"y":-783.47607421875,"width":285.0,"height":67.0},"title":"Set
-      the text in the TextField to this new combined string","layer":0,"elementTypeColor":{"r":0.0,"g":0.0,"b":0.0,"a":0.0}}'
-  - type: 3
-    uid: 4524fdf1-99ae-4c5f-8be8-699313990546
-    jsonData: '{"uid":"4524fdf1-99ae-4c5f-8be8-699313990546","layout":{"serializedVersion":"2","x":429.2772216796875,"y":-813.47607421875,"width":512.0,"height":94.0},"title":"The
-      For node runs ''numberOfLoops'' times, running the flow connected to ''Body''
-      each time, with the ''int'' output set to the number of the loop we''re on -
-      0,1,2 etc.","layer":0,"elementTypeColor":{"r":0.0,"g":0.0,"b":0.0,"a":0.0}}'
+  - type: 5
+    uid: b40cafd8-0cf1-468e-acf1-7e3abef15529
+    jsonData: '{"visible":true,"layout":{"serializedVersion":"2","x":10.0,"y":130.0,"width":200.0,"height":150.0}}'
+  - type: 4
+    uid: 96e2c0aa-7425-47af-849f-5743622b8053
+    jsonData: '{"visible":true,"layout":{"serializedVersion":"2","x":10.0,"y":20.0,"width":0.0,"height":0.0}}'
   viewTransform:
     position: {x: 0, y: 0}
     scale: 1
