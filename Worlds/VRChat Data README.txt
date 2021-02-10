@@ -30,10 +30,10 @@ Jumping from Slopes at certain angles with a X = 2 Block gap:
 
 ############################################################
 
-Jump height on a flat surface with Y = .125, .25, .375, .5, .75, 1, 1.125:
+Jump height on a flat surface to a surface with Y = .125, .25, .375, .5, .75, 1, 1.125:
 - Y = .125 - .5, Walks up no need to Jump.
 - Y = .75, Forced to Jump.
-- Y = 1, Has to do a "double" Jump.
-- Y = 1.125, Has to do a "double" Jump while holding left/right next to it.
+- Y = 1, Has to do a "double" Jump -- aka the player collides with the platform/cube/etc. and is given time to jump again).
+- Y = 1.125, Has to do a "double" Jump while holding left/right next to it (this is unreliable don't do this).
 
 ############################################################
