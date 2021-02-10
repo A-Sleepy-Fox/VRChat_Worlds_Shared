@@ -17,7 +17,7 @@ Use Branches
 # Errors Galore Fix
 Please use this USharp unity package https://github.com/MerlinVR/UdonSharp/releases/tag/v0.19.2
 
-IF YOU ERROR: 
-  Import it into your Unity Project by
+  Because of GitHub locking out some files, you will have to Import this and to do so:
     Right Click in Assets -> Import Package -> Select the USharp package
+    
   This will have to be done everytime the U# code gets updated over Github's Push and Pull.
