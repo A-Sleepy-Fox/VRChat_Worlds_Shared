@@ -1,17 +1,10 @@
 Win64
 PlayerPath?
-C:/Users/Omega/AppData/Local/Temp/DefaultCompany/VRC_Worlds_Shared/scene-standalonewindows64-creation.vrcw
+C:/Users/Omega/AppData/Local/Temp/DefaultCompany/VRC_Worlds_Shared/scene-standalonewindows64-parkour practice.vrcw
 SceneListBegin?
-Assets/Scenes/Creation.unity
+Assets/Scenes/Parkour Practice.unity
 SceneListEnd?
-4bc4346a71a8df53a6b106f68ef3a190 UnityEngine.UI.dll:UnityEngine.UI.CanvasScaler
-cc4274b586df3c02688bac01b88bd16c UnityEngine.UI.dll:UnityEngine.EventSystems.EventSystem
-ae83e830e7a90c0aff918c4c2e520825 UnityEngine.UI.dll:UnityEngine.UI.GraphicRaycaster
-748dd2a2a28da4e618912da5ac45684b UnityEngine.UI.dll:UnityEngine.EventSystems.StandaloneInputModule
 bad0f5a58d4b55ed1442379677ba2587 VRC.Udon.dll:VRC.Udon.ProgramSources.SerializedUdonProgramAsset
-639cb0498f96640b4b667b4129295ba3 VRCSDK3.dll:VRC.SDK3.Components.VRCMirrorReflection
 10480eec36be4b6bdd6d8cc2b035dc73 VRCSDK3.dll:VRC.SDK3.Components.VRCSceneDescriptor
 98802acfe9980994b612b48375d6584f VRC.Udon.dll:VRC.Udon.UdonBehaviour
-344a8c2e106a0a4e098e91a52e0af063 Unity.TextMeshPro.dll:TMPro.TMP_FontAsset
-7c241ad4c962a81de678e4c429b366f8 Unity.TextMeshPro.dll:TMPro.TextMeshProUGUI
 d25601db5f800892b41ff09aef0f5e19 VRCCore-Editor.dll:VRC.Core.PipelineManager
