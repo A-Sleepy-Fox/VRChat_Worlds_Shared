@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Scenes/Parkour Practice.unity
+- path: Assets/Scenes/SampleInteriorMap.unity
   isLoaded: 1
   isActive: 1
